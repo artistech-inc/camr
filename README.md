@@ -9,12 +9,12 @@ This wrapped fork is for the yellow-pipeline.
 
 ```sh      
 git clone https://github.com/artistech-inc/camr.git
-git checkout yellow-pipeline
 git clone https://github.com/artistech-inc/jamr.git
 
 cd jamr
 ./setup
 cd ../camr
+git checkout yellow-pipeline
 ./scripts/config.sh
 ```
 
