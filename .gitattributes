@@ -1,6 +1,0 @@
-bllip-parser/models/WSJ+Gigaword/parser/PStatInfo filter=lfs diff=lfs merge=lfs -text
-bllip-parser/models/WSJ+Gigaword/reranker/features.gz filter=lfs diff=lfs merge=lfs -text
-bllip-parser/models/WSJ+Gigaword/reranker/weights.gz filter=lfs diff=lfs merge=lfs -text
-bllip-parser/models/WSJ+Gigaword filter=lfs diff=lfs merge=lfs -text
-bllip-parser/models/WSJ+Gigaword/parser filter=lfs diff=lfs merge=lfs -text
-bllip-parser/models/WSJ+Gigaword/reranker filter=lfs diff=lfs merge=lfs -text
