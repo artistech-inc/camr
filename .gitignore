@@ -55,7 +55,8 @@ docs/_build/
 # project spec
 data/
 # temp/
-models/
+# models/
+amr-anno-1.0/
 stanfordnlp/stanford-corenlp-full-2013-06-20*
 stanfordnlp/stanford-parser-full-2014-01-04*
 smatch*/
