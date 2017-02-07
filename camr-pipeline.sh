@@ -11,5 +11,5 @@ python amr_parsing.py -m parse --model $MODEL $1
 echo "python amr_parsing.py -m preprocess --amrfmt amr $1.all.basic-abt-brown-verb.parsed"
 python amr_parsing.py -m preprocess --amrfmt amr $1.all.basic-abt-brown-verb.parsed
 
-echo ""./scripts/jamr_align.sh $1.all.basic-abt-brown-verb.parsed.amr.tok"
+echo "./scripts/jamr_align.sh $1.all.basic-abt-brown-verb.parsed.amr.tok"
 ./scripts/jamr_align.sh $1.all.basic-abt-brown-verb.parsed.amr.tok
